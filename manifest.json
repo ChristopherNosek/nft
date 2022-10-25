@@ -1,6 +1,6 @@
 {
-  "name": "Metaplex-V1",
-  "short_name": "Metaplex Auctions using Storefront v1",
+  "name": "Metaplex NFT Marketplace",
+  "short_name": "Metaplex NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
